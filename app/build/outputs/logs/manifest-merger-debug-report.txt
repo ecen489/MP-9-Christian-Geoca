@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/6fff60badea1d54145fba0f568ba75e5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/08cfb4811335b4431110f66b6d6131e5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/705c79a0110d68dcfb964882b593c375/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/fb8ecd2164cf46a1faf0a02ec389784b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c99245e9e44a5f68c22a1f3761d178e5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/410ed086d0a5d9a9d775c3925d8cffa1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/5f5294903e493dda1f18a26c44a27308/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ead14d84034ed49a62a01219b81c8280/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1cd4e16d3315db689da17bea0234430d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/5d1c18b163c295277b58705f2cc776be/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ee28fab4b6fb17ad54d18a3c592cf522/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/5a792cbefaed02dca4df387f9b36cd52/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a39b14cfbd4d5435d7bb41ed99d814b2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/a3e908d2913b2afcf06e5f2118ceecdd/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/0dc2f8d406249aaec3a76d02c4f5f33e/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/6fff60badea1d54145fba0f568ba75e5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/6fff60badea1d54145fba0f568ba75e5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/08cfb4811335b4431110f66b6d6131e5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/08cfb4811335b4431110f66b6d6131e5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/705c79a0110d68dcfb964882b593c375/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/705c79a0110d68dcfb964882b593c375/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/fb8ecd2164cf46a1faf0a02ec389784b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/fb8ecd2164cf46a1faf0a02ec389784b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c99245e9e44a5f68c22a1f3761d178e5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c99245e9e44a5f68c22a1f3761d178e5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/410ed086d0a5d9a9d775c3925d8cffa1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/410ed086d0a5d9a9d775c3925d8cffa1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ead14d84034ed49a62a01219b81c8280/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ead14d84034ed49a62a01219b81c8280/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1cd4e16d3315db689da17bea0234430d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1cd4e16d3315db689da17bea0234430d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/5d1c18b163c295277b58705f2cc776be/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/5d1c18b163c295277b58705f2cc776be/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ee28fab4b6fb17ad54d18a3c592cf522/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ee28fab4b6fb17ad54d18a3c592cf522/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/5a792cbefaed02dca4df387f9b36cd52/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/5a792cbefaed02dca4df387f9b36cd52/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a39b14cfbd4d5435d7bb41ed99d814b2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a39b14cfbd4d5435d7bb41ed99d814b2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/a3e908d2913b2afcf06e5f2118ceecdd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/a3e908d2913b2afcf06e5f2118ceecdd/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/0dc2f8d406249aaec3a76d02c4f5f33e/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/0dc2f8d406249aaec3a76d02c4f5f33e/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:31:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/6fff60badea1d54145fba0f568ba75e5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/6fff60badea1d54145fba0f568ba75e5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/08cfb4811335b4431110f66b6d6131e5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/08cfb4811335b4431110f66b6d6131e5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/705c79a0110d68dcfb964882b593c375/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/705c79a0110d68dcfb964882b593c375/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/fb8ecd2164cf46a1faf0a02ec389784b/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/fb8ecd2164cf46a1faf0a02ec389784b/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c99245e9e44a5f68c22a1f3761d178e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/c99245e9e44a5f68c22a1f3761d178e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/410ed086d0a5d9a9d775c3925d8cffa1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/410ed086d0a5d9a9d775c3925d8cffa1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/5f5294903e493dda1f18a26c44a27308/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/5f5294903e493dda1f18a26c44a27308/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ead14d84034ed49a62a01219b81c8280/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ead14d84034ed49a62a01219b81c8280/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1cd4e16d3315db689da17bea0234430d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/1cd4e16d3315db689da17bea0234430d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/5d1c18b163c295277b58705f2cc776be/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/5d1c18b163c295277b58705f2cc776be/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ee28fab4b6fb17ad54d18a3c592cf522/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/ee28fab4b6fb17ad54d18a3c592cf522/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/5a792cbefaed02dca4df387f9b36cd52/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/5a792cbefaed02dca4df387f9b36cd52/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a39b14cfbd4d5435d7bb41ed99d814b2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/a39b14cfbd4d5435d7bb41ed99d814b2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/a3e908d2913b2afcf06e5f2118ceecdd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/a3e908d2913b2afcf06e5f2118ceecdd/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/0dc2f8d406249aaec3a76d02c4f5f33e/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/0dc2f8d406249aaec3a76d02c4f5f33e/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/christiangeoca/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/6fff60badea1d54145fba0f568ba75e5/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christiangeoca/Desktop/MP-9-Christian-Geoca/app/src/main/AndroidManifest.xml
